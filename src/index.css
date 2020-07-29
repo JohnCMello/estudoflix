@@ -4,14 +4,19 @@
 }
 
 :root {
-  --primary: #2A7AE4;
-  --black: #000000;
+  --primary: #0E3657;
+  --black: #0d1020;
+  --white: #FFFFFF;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
   --white: #FFFFFF;
-  --frontEnd: #6BD1FF;
-  --backEnd: #00C86F;
+  --music: #134B78;
+  --backEnd: #0B2B45;
+  --dataSci: #5A95C4;
+  --games: #ffec01;
+  --movies: #ff01e0;
+
 }
 
 html,
@@ -22,4 +27,10 @@ body {
 
 a {
   color: inherit;
-} 
+}
+
+#root{
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
