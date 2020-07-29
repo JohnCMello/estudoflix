@@ -1,59 +1,59 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#00C86F",
+      "titulo": "Music",
+      "link": "https://www.youtube.com/channel/UCjsuoli24H67-4GZ25UtGiQ",
+      "cor": "var(--bandas)",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Boris e os Yelstis",
+        "url": "https://www.youtube.com/channel/UCjsuoli24H67-4GZ25UtGiQ"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "A brief history of Rock n' Roll riffs",
+          "url": "https://www.youtube.com/watch?v=xiC__IjCa2s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Dio - Holy Diver",
+          "url": "https://www.youtube.com/watch?v=2lvs2FzF64o"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Ozzy Osbourne - Crazu Train",
+          "url": "https://www.youtube.com/watch?v=FVovq9TGBw0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Twisted Sisters - We're Not Gonna Take It",
+          "url": "https://www.youtube.com/watch?v=V9AbeALNVkk"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Heart - Stairway to Heaven Led Zeppelin",
+          "url": "https://www.youtube.com/watch?v=2cZ_EFAmj08"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "GRAND FUNK RAILROAD - Inside Looking Out ",
+          "url": "https://www.youtube.com/watch?v=NxcOxvEsE_Y"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Santana - Soul Sacrifice ",
+          "url": "https://www.youtube.com/watch?v=AqZceAQSJvc"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Deep Purple - Burn",
+          "url": "https://www.youtube.com/watch?v=t4fDCwDiWJQ"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Armageddon",
+      "cor": "var(--backEnd)",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Armageddon Trailer",
+        "url": "https://www.youtube.com/watch?v=kg_jH47u480"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "PPrimitive Technology",
+          "url": "https://www.youtube.com/watch?v=P73REgj-3UE"
         },
         {
           "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "cor": "var(--dataSci)",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -101,7 +101,7 @@
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "var(--movies)",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -123,7 +123,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "var(--games)",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
