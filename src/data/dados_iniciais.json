@@ -1,9 +1,9 @@
 {
   "categorias": [
     {
-      "titulo": "Music",
+      "titulo": "Classic Rock",
       "link": "https://www.youtube.com/channel/UCjsuoli24H67-4GZ25UtGiQ",
-      "cor": "var(--bandas)",
+      "cor": "var(--classRock)",
       "link_extra": {
         "text": "Boris e os Yelstis",
         "url": "https://www.youtube.com/channel/UCjsuoli24H67-4GZ25UtGiQ"
@@ -18,7 +18,7 @@
           "url": "https://www.youtube.com/watch?v=2lvs2FzF64o"
         },
         {
-          "titulo": "Ozzy Osbourne - Crazu Train",
+          "titulo": "Ozzy Osbourne - Crazy Train",
           "url": "https://www.youtube.com/watch?v=FVovq9TGBw0"
         },
         {
@@ -30,7 +30,7 @@
           "url": "https://www.youtube.com/watch?v=2cZ_EFAmj08"
         },
         {
-          "titulo": "GRAND FUNK RAILROAD - Inside Looking Out ",
+          "titulo": "Gang Funk Railroad - Inside Looking Out ",
           "url": "https://www.youtube.com/watch?v=NxcOxvEsE_Y"
         },
         {
@@ -44,58 +44,58 @@
       ]
     },
     {
-      "titulo": "Armageddon",
-      "cor": "var(--backEnd)",
+      "titulo": "Punk Rock",
+      "cor": "var(--punkRock)",
       "link_extra": {
-        "text": "Armageddon Trailer",
-        "url": "https://www.youtube.com/watch?v=kg_jH47u480"
+        "text": "The Decline",
+        "url": "https://www.youtube.com/watch?v=qnFVMkTWaBw"
       },
       "videos": [
         {
-          "titulo": "PPrimitive Technology",
-          "url": "https://www.youtube.com/watch?v=P73REgj-3UE"
+          "titulo": "Pennywise - Bro Hymn",
+          "url": "https://www.youtube.com/watch?v=62cFaucr0b8"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Ramones - Poison Heart",
+          "url": "https://www.youtube.com/watch?v=OfIfzVf8t6E"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Bad Religion - American Jesus",
+          "url": "https://www.youtube.com/watch?v=12kcpP-8jfM"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "No Use for a Name - Dumb Reminders",
+          "url": "https://www.youtube.com/watch?v=9ID5iwSQ4wU"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "The Clash - London Calling",
+          "url": "https://www.youtube.com/watch?v=EfK-WX2pa8c"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Meus Estudos Iniciais",
       "cor": "var(--dataSci)",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Meu GitHub",
+        "url": "https://github.com/JohnCMello"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "HTML e CSS - Curso em Video",
+          "url": "https://www.youtube.com/watch?v=epDCjksKMok"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Algoritmos - Curso em Video",
+          "url": "https://www.youtube.com/watch?v=8mei6uVttho"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Curso curto JavaScript",
+          "url": "https://www.youtube.com/watch?v=i6Oi-YtXnAU"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "A Dimensão do Tempo para Iniciantes em Programação",
+          "url": "https://www.youtube.com/watch?v=Qb5b8ZE9tIY"
         }
       ]
     },
@@ -124,60 +124,52 @@
     {
       "titulo": "Games",
       "cor": "var(--games)",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Metal Gear Solid - PS1",
+          "url": "https://www.youtube.com/watch?v=WpG9XIfFkE0"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Resident Evil - PS1",
+          "url": "https://www.youtube.com/watch?v=N92RAQ3mvMA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Final Fantasy VII - PS1",
+          "url": "https://www.youtube.com/watch?v=BOUMiEbkZUM"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Super Mario World - SNES",
+          "url": "https://www.youtube.com/watch?v=Vxg5eOPmzHI"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Enduro - ATARI",
+          "url": "https://www.youtube.com/watch?v=jvli9CXSqP4"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Code",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Robert C. Martin (Uncle Bob), Clean Architecture and Design",
+          "url": "https://www.youtube.com/watch?v=2dKZ-dWaCiU"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Functional Programming in 40 Minutes • Russ Olsen",
+          "url": "https://www.youtube.com/watch?v=0if71HOyVjY"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Programming 101 with 'Uncle Bob'",
+          "url": "https://www.youtube.com/watch?v=-1CuAiKdBQs"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Why Do So Many Programmers Lose Hope?",
+          "url": "https://www.youtube.com/watch?v=NdA6aQR-s4U"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Coding is Not Difficult - Bill Gates",
+          "url": "https://www.youtube.com/watch?v=hb7Q33ysCwI"
         }
       ]
     }
